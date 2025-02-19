@@ -1,5 +1,5 @@
 # About-Me
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) HiMy name is A. Cristian Mihai
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi My name is Andrei Cristian Mihai
 ========================================================================================================================================
 
 Junior Software Engineer
@@ -7,9 +7,8 @@ Junior Software Engineer
 
 I am a junior software engineer, passionate about the backend, especially with : - Java, - Hibernate, - SQL, - Spring, I am a really passionate and young developer
 
-* 🌍  I'm based in Beclean, Bistrita-Nasaud, Romania
-* ✉️  Contact me -> [cristianmihai946@outlook.com](mailto:cristianmihai946@outlook.com)
-* ✍🏻  I uploaded my projects if you want  take a look 👇🏻👇🏻👇🏻 
+* 📍  I'm based in Beclean, Bistrita-Nasaud, Romania
+* ✉  Contact me -> [cristianmihai946@outlook.com](mailto:cristianmihai946@outlook.com)
 ### Skills
 
 <p align="left">
